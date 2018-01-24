@@ -55,3 +55,17 @@ a {
 p {
     margin: 20px;
 }
+
+.blog-post {
+    margin: 10px;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid #999999;
+    border-radius: 3px;
+}
+
+img {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
